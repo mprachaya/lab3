@@ -1,0 +1,35 @@
+.textprofile1{
+    background-color: whitesmoke;
+    height: 730px;
+    text-align: right;
+    
+}
+.textprofile2{
+    background-color: whitesmoke;
+    height: 730px;
+}
+.bg{
+    background-color: rgb(29, 29, 29);
+}
+
+.margintop{
+    margin-top: 5px;
+}
+.marginleft{
+    margin-left: 5px;
+}
+.padding{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.col-half-offset{
+    margin-left:4.166666667%
+}
+.showimg{
+    margin-top: 20px;
+    background-color: rgb(50, 50, 50);
+    height: 200px;
+}
